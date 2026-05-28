@@ -50,6 +50,22 @@ Comparison of implied equity value outcomes across Bear, Base, and Bull valuatio
 
 * Interactive valuation dashboard with scenario selector
 
+## Model Structure
+
+The Excel valuation model is organized into modular worksheets supporting the complete equity research and valuation process:
+
+| Sheet                   | Description                                                                                                                                               |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cover Page              | Project overview, valuation highlights, and navigation interface                                                                                          |
+| Dashboard               | Interactive valuation dashboard with dynamic Bull, Base, and Bear scenario outputs                                                                        |
+| Assumptions             | Core forecasting assumptions, macroeconomic drivers, scenario construction, and valuation inputs                                                          |
+| Historical Financials   | Historical income statement, balance sheet, and cash flow statement analysis                                                                              |
+| Historical Ratios       | Ratio analysis covering profitability, liquidity, leverage, efficiency, and return metrics                                                                |
+| Forecast Model          | Projected financial statements and integrated operating forecasts                                                                                         |
+| DCF Valuation           | FCFF valuation model including WACC calculation, terminal value estimation, implied share price analysis, and WACC vs terminal growth sensitivity testing |
+| Operational Sensitivity | Revenue growth vs operating expense sensitivity analysis and operational scenario testing                                                                 |
+
+The model is fully integrated, with assumptions dynamically flowing through forecast schedules, valuation outputs, dashboard visuals, and sensitivity analysis tables.
 
 ---
 
