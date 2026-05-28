@@ -123,6 +123,19 @@ Working capital schedules were forecast using operational efficiency assumptions
 * Debtor (Receivable) Days
 * Creditor (Payable) Days
 
+## Forecast Model
+
+Integrated forecast statements linking operating assumptions to projected financial performance and valuation outputs.
+
+### Forecast Income Statement
+
+![Forecast Income Statement 1](images/forecast-income-statement-1.png)
+
+![Forecast Income Statement 2](images/forecast-income-statement-2.png)
+
+The forecast model projects revenue growth, operating profitability, margins, and net income across the explicit forecast period using integrated operating assumptions and historical trend analysis.
+
+---
 ## Valuation Approach
 
 The DCF valuation was performed using:
