@@ -5,6 +5,11 @@
 This project develops an integrated 3-statement financial model and discounted cash flow (DCF) valuation for Mr Price Group (JSE: MRP). The model analyses the company’s historical financial performance, forecasts future operating performance, and estimates intrinsic equity value using an unlevered free cash flow (FCFF) valuation approach.
 
 The project was built as part of a financial modelling portfolio focused on equity research, valuation, and financial analysis.
+## Valuation Dashboard
+
+Interactive valuation dashboard with dynamic scenario selection and implied equity value outputs.
+
+![Dashboard Summary](images/dashboard-summary.png.png)
 
 ---
 
