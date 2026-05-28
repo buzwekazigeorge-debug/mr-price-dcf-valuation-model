@@ -149,6 +149,14 @@ The integrated balance sheet forecasts operating assets, liabilities, lease item
 
 Supporting roll-forward schedules used to forecast property, plant & equipment (PPE), capital expenditure, depreciation, and intangible asset balances across the forecast horizon.
 
+### Forecast Cash Flow Statement
+
+![Forecast Cash Flow Statement 1](images/forecast-cash-flow-1.png)
+
+![Forecast Cash Flow Statement 2](images/forecast-cash-flow-2.png)
+
+The integrated cash flow forecast captures operating cash generation, working capital movements, capital expenditure, financing activities, and cash roll-forward reconciliation across the forecast period.
+
 ---
 ## Valuation Approach
 
