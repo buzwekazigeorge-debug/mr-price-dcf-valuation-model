@@ -73,10 +73,10 @@ The model is fully integrated, with assumptions dynamically flowing through fore
 
 | Metric                |   Value |
 | --------------------- | ------: |
-| Implied Share Price   |    R232 |
+| Implied Share Price   |    R219 |
 | Current Market Price* | R156.52 |
-| Implied Upside        |   47.9% |
-| WACC                  |  13.32% |
+| Implied Upside        |   40.2% |
+| WACC                  |  13.85% |
 | Terminal Growth Rate  |    3.0% |
 
 *Market data and valuation assumptions as at 26 May 2026.
