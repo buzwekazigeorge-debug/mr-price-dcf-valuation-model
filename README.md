@@ -25,21 +25,31 @@ Live scenario assumption adjustments for revenue growth, operating expenses, dis
 
 Comparison of implied equity value outcomes across Bear, Base, and Bull valuation scenarios relative to the prevailing market price.
 
-# Key Features
+## Key Features
+
+### Financial Modelling
 
 * Integrated 3-statement financial model
 * Historical financial statement analysis
 * Forecast income statement, balance sheet, and cash flow statement
 * Dynamic working capital schedules
+
+### Valuation & Forecasting
+
 * DCF valuation using FCFF methodology
 * WACC calculation using CAPM framework
 * Terminal value estimation
 * Bull, Base, and Bear scenario analysis
-* Sensitivity analysis:
 
-  * WACC vs Terminal Growth
-  * Revenue Growth vs Operating Expenses
+### Sensitivity Analysis
+
+* WACC vs Terminal Growth
+* Revenue Growth vs Operating Expenses
+
+### Dashboard & Visualization
+
 * Interactive valuation dashboard with scenario selector
+
 
 ---
 
