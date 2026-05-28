@@ -223,7 +223,7 @@ This project was created for educational and portfolio purposes only and does no
 
 ---
 
-# Author
+## Author
 
-Buzwekazi George 
+Buzwekazi George  
 Aspiring Financial Analyst | Financial Modelling & Valuation
