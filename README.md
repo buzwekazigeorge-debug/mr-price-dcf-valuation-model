@@ -46,6 +46,20 @@ Comparison of implied equity value outcomes across Bear, Base, and Bull valuatio
 * WACC vs Terminal Growth
 * Revenue Growth vs Operating Expenses
 
+### WACC vs Terminal Growth Sensitivity
+
+![WACC Sensitivity](images/wacc-terminal-growth.png)
+
+Share price sensitivity analysis showing valuation changes across discount rate and terminal growth assumptions.
+
+---
+
+### Revenue Growth vs Operating Expense Sensitivity
+
+![Operational Sensitivity](images/revenue-opex-sensitivity.png)
+
+Operational sensitivity table demonstrating the impact of revenue growth and operating expense assumptions on valuation outputs.
+
 ### Dashboard & Visualization
 
 * Interactive valuation dashboard with scenario selector
