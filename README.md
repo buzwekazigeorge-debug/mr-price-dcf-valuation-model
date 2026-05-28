@@ -12,6 +12,11 @@ Interactive valuation dashboard with dynamic scenario selection and implied equi
 ![Dashboard Summary](images/dashboard-summary.png.png)
 The dashboard allows dynamic switching between Bull, Base, and Bear valuation scenarios, with live updates to implied share price, valuation upside/downside, and scenario assumptions.
 
+### Live Scenario Assumptions
+
+![Scenario Assumptions](images/dashboard-assumptions.png.png)
+
+Live scenario assumption adjustments for revenue growth, operating expenses, discount rate, and terminal growth across Bull, Base, and Bear valuation cases.
 
 # Key Features
 
