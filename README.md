@@ -135,6 +135,14 @@ Integrated forecast statements linking operating assumptions to projected financ
 
 The forecast model projects revenue growth, operating profitability, margins, and net income across the explicit forecast period using integrated operating assumptions and historical trend analysis.
 
+### Forecast Balance Sheet
+
+![Forecast Balance Sheet 1](images/forecast-balance-sheet-1.png)
+
+![Forecast Balance Sheet 2](images/forecast-balance-sheet-2.png)
+
+The integrated balance sheet forecasts operating assets, liabilities, lease items, and shareholder equity while maintaining automated balance sheet balancing checks throughout the forecast horizon.
+
 ---
 ## Valuation Approach
 
