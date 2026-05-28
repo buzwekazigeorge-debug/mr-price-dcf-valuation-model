@@ -143,6 +143,12 @@ The forecast model projects revenue growth, operating profitability, margins, an
 
 The integrated balance sheet forecasts operating assets, liabilities, lease items, and shareholder equity while maintaining automated balance sheet balancing checks throughout the forecast horizon.
 
+### Supporting Schedules
+
+![Supporting Schedules](images/supporting-schedules.png)
+
+Supporting roll-forward schedules used to forecast property, plant & equipment (PPE), capital expenditure, depreciation, and intangible asset balances across the forecast horizon.
+
 ---
 ## Valuation Approach
 
