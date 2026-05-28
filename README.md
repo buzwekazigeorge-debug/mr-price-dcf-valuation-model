@@ -10,6 +10,7 @@ The project was built as part of a financial modelling portfolio focused on equi
 Interactive valuation dashboard with dynamic scenario selection and implied equity value outputs.
 
 ![Dashboard Summary](images/dashboard-summary.png.png)
+
 The dashboard allows dynamic switching between Bull, Base, and Bear valuation scenarios, with live updates to implied share price, valuation upside/downside, and scenario assumptions.
 ---
 
