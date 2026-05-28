@@ -156,7 +156,7 @@ Share price sensitivity analysis showing valuation changes across discount rate 
 ![Operational Sensitivity](images/revenue-opex-sensitivity.png)
 
 Operational sensitivity table demonstrating the impact of revenue growth and operating expense assumptions on valuation outputs.
----
+
 
 # Files Included
 
