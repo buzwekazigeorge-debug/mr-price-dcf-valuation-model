@@ -226,4 +226,4 @@ This project was created for educational and portfolio purposes only and does no
 # Author
 
 Buzwekazi George 
-Financial Modelling Portfolio Project (2026)
+Aspiring Financial Analyst | Financial Modelling & Valuation
