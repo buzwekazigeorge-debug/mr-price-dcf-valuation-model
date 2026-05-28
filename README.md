@@ -10,6 +10,7 @@ The project was built as part of a financial modelling portfolio focused on equi
 Interactive valuation dashboard with dynamic scenario selection and implied equity value outputs.
 
 ![Dashboard Summary](images/dashboard-summary.png.png)
+
 The dashboard allows dynamic switching between Bull, Base, and Bear valuation scenarios, with live updates to implied share price, valuation upside/downside, and scenario assumptions.
 
 ### Live Scenario Assumptions
@@ -17,6 +18,12 @@ The dashboard allows dynamic switching between Bull, Base, and Bear valuation sc
 ![Scenario Assumptions](images/dashboard-assumptions.png.png)
 
 Live scenario assumption adjustments for revenue growth, operating expenses, discount rate, and terminal growth across Bull, Base, and Bear valuation cases.
+
+### Valuation Range Analysis
+
+![Valuation Range](images/valuation-range-chart.png.png)
+
+Comparison of implied equity value outcomes across Bear, Base, and Bull valuation scenarios relative to the prevailing market price.
 
 # Key Features
 
