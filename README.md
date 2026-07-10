@@ -1,4 +1,4 @@
-# MR PRICE GROUP (MRP) — Equity Research & DCF Valuation Model
+# MR PRICE GROUP (MRP) — Integrated Financial Model & Valuation
 
 ## Overview
 
